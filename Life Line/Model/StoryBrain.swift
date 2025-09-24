@@ -7,8 +7,6 @@
 
 import Foundation
 
-import Foundation
-
 struct StoryBrain {
     
     var storyNumber = 0
